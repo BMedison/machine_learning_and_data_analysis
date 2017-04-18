@@ -1,2 +1,2 @@
-# machine_learning_and_data_analysis
+# Machine Learning and Data Analysis
 Course on Coursera site
